@@ -1,0 +1,20 @@
+{
+  "businessName": "John Morrison Panelbeaters Spraypai",
+  "category": "auto",
+  "brandColors": {
+    "primary": "#C0392B",
+    "secondary": "#E74C3C",
+    "accent": "#F39C12",
+    "dark": "#922B21",
+    "light": "#FDEDEC"
+  },
+  "tagline": "Premium Care",
+  "services": [
+    "Car Wash",
+    "Detailing",
+    "Interior Cleaning",
+    "Waxing",
+    "Engine Cleaning",
+    "Paint Protection"
+  ]
+}
